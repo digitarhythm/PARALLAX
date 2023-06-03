@@ -1,0 +1,2 @@
+# PARALLAX
+TReK GT40Plus PARALLAX KiCAD Project
